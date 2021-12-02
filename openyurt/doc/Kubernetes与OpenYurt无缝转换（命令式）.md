@@ -7,13 +7,13 @@
  yurtctl revert // To uninstall and revert back to the original cluster settings
 ```
 
-简单一行命令就可体验OpenYurt了。
+简单一行命令就可体验OpenYurt了，感觉非常方便。
 
 稍等！为什么是 convert/revert 而不是 install/uninstall ? 
 
-它一定做了很多对集群很重要的事情吧？不会把集群搞坏吧？
+这个命令对集群做了什么？
 
-所以，为了保证集群不被自己弄坏，在执行它之前有必要搞清楚它到底做了什么。
+看来，在执行它之前有必要搞清楚它到底做了什么。
 
 
 
