@@ -47,7 +47,7 @@
 
 
 
-### disable node做了什么？
+### disable nodelifecycle controller 做了什么？
 
 工作内容：
 
